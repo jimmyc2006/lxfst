@@ -15,3 +15,5 @@ Creating a new branch is quick and simple.
 hotfix
 1111
 iss53-2
+1111
+bug100
